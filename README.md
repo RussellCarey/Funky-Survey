@@ -3,7 +3,7 @@
 [From early 2021]
 A survey creation tool.
 
-![alt text](https://github.com/RussellCarey/Tweety/blob/690ffb3156c721752fef71ad989f850f3db778d3/screenshot_1.png)
+![alt text](https://github.com/RussellCarey/Funky-Survey/blob/master/design/funkgif.gif?raw=true)
 
 ## Table of contents
 
